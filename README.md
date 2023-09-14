@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hidyv
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning puthon
+- 🌱 I’m currently learning python
 
 
 <!---
